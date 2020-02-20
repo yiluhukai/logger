@@ -1,0 +1,3 @@
+2019-07-22T15:52:36 logDebug (file_logger.go:logger.(*FileLogger).LogError:74 ) this is error
+2019-07-22T15:53:54 logDebug (logger_test.go:logger.TestFileLogger:10 ) this is error
+2019-07-22T15:55:36 logError (logger_test.go:logger.TestFileLogger:10 ) this is error

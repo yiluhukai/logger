@@ -1,0 +1,4 @@
+2019-07-22T17:39:09 logDebug (logger_test.go:logger.TestFileLogger:12 ) hello
+2019-07-22T17:39:09 logInfo (logger_test.go:logger.TestFileLogger:13 ) hello10
+2019-07-22T17:42:24 logDebug (logger_test.go:logger.TestFileLogger:12 ) hello
+2019-07-22T17:42:24 logInfo (logger_test.go:logger.TestFileLogger:13 ) hello10

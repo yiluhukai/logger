@@ -1,0 +1,6 @@
+2019-07-22T15:52:36 logDebug (file_logger.go:logger.(*FileLogger).LogDebug:58 ) hello
+2019-07-22T15:52:36 logDebug (file_logger.go:logger.(*FileLogger).LogInfo:66 ) hello10
+2019-07-22T15:53:54 logDebug (logger_test.go:logger.TestFileLogger:8 ) hello
+2019-07-22T15:53:54 logDebug (logger_test.go:logger.TestFileLogger:9 ) hello10
+2019-07-22T15:55:36 logDebug (logger_test.go:logger.TestFileLogger:8 ) hello
+2019-07-22T15:55:36 logInfo (logger_test.go:logger.TestFileLogger:9 ) hello10
